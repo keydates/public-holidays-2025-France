@@ -1,0 +1,82 @@
+{
+  "product": "France Public Holidays 2025",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-01-01T12:00:00",
+      "endDate": "2025-01-01T12:00:00",
+      "source": "Government of France",
+      "product": "France Public Holidays 2025",
+      "style": "blue",
+      "description": "Celebration of the first day of the year"
+    },
+    {
+      "title": "Easter Sunday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-04-20T12:00:00",
+      "endDate": "2025-04-20T12:00:00",
+      "source": "Government of France",
+      "product": "France Public Holidays 2025",
+      "style": "pink",
+      "description": "Celebration of the resurrection of Jesus Christ"
+    },
+    {
+      "title": "Labor Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-05-01T12:00:00",
+      "endDate": "2025-05-01T12:00:00",
+      "source": "Government of France",
+      "product": "France Public Holidays 2025",
+      "style": "red",
+      "description": "Celebration of workers and labor movements"
+    },
+    {
+      "title": "Bastille Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-07-14T12:00:00",
+      "endDate": "2025-07-14T12:00:00",
+      "source": "Government of France",
+      "product": "France Public Holidays 2025",
+      "style": "blue",
+      "description": "Celebration of the French Revolution"
+    },
+    {
+      "title": "Assumption of Mary",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-08-15T12:00:00",
+      "endDate": "2025-08-15T12:00:00",
+      "source": "Government of France",
+      "product": "France Public Holidays 2025",
+      "style": "purple",
+      "description": "Celebration of the Virgin Mary's assumption into Heaven"
+    },
+    {
+      "title": "All Saints' Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-11-01T12:00:00",
+      "endDate": "2025-11-01T12:00:00",
+      "source": "Government of France",
+      "product": "France Public Holidays 2025",
+      "style": "orange",
+      "description": "Celebration of all saints and martyrs"
+    },
+    {
+      "title": "Christmas Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-12-25T12:00:00",
+      "endDate": "2025-12-25T12:00:00",
+      "source": "Government of France",
+      "product": "France Public Holidays 2025",
+      "style": "red",
+      "description": "Celebration of the birth of Jesus Christ"
+    }
+  ]
+}
